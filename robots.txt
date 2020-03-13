@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /contact.html
+V2VsbCBub3csIFRoYW5rcyBmb3IgdGFraW5nIHRoZSB0aW1lIHRvIGRvIHRoaXMuIFNhZGx5IHRoZXJlcyBub3RoaW5nIGhlcmUu

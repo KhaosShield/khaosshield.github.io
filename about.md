@@ -25,7 +25,7 @@ Jump to present day. Currently serving in the UK Armed Forces for 10+ years in a
 to take a dowards slope. And so here i am, currently studying in my spare time, learning as much as i can about Networking, PenTesting, Cyber Security, Python and much more to hopefully take that leap into the world of Cybers and catch a job ive always wanted.
 
 * * * 
-### [](#header-3)ls -la 
+### [](#header-3)>ls -la 
 Start small aim big. Certs certs certs certs certs, Its all everyone seems to care about so heres a list of certs ill hopefully achieve in the near/far future which IMO should enable me to at least get my foot through the door..
 
 

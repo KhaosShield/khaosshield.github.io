@@ -13,9 +13,9 @@ or is wrong please let me know, Allot of these have come from my notes pasted in
 
 * * *
 ### [](#header-3)>Cheatsheets
-[XSS Payloads](https://github.com/Pgaijin66/XSS-Payloads/blob/master/payload.txt) (Top 20 are the standard 'go-to' to try first)\
-[PHP Reverse Web Shell](http://pentestmonkey.net/tools/web-shells/php-reverse-shell) (A good collection of resources too!)\
-[HighOn.Coffee](https://highon.coffee/blog/reverse-shell-cheat-sheet/#kali-php-web-shells) (An awesome site for shells, cheatsheets & everything else)\
+[XSS Payloads](https://github.com/Pgaijin66/XSS-Payloads/blob/master/payload.txt) (Top 20 are the standard 'go-to' to try first)  
+[PHP Reverse Web Shell](http://pentestmonkey.net/tools/web-shells/php-reverse-shell) (A good collection of resources too!)  
+[HighOn.Coffee](https://highon.coffee/blog/reverse-shell-cheat-sheet/#kali-php-web-shells) (An awesome site for shells, cheatsheets & everything else)  
 
 * * * 
 

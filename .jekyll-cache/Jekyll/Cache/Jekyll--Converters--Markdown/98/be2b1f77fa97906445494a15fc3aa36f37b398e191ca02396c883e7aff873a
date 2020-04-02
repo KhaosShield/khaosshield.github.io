@@ -1,0 +1,27 @@
+I"�
+<h1 id="offensive-security-certified-professional"><a href="#header-1"></a>Offensive Security Certified Professional</h1>
+
+<p>So OSCP…. the flagship certification from <a href="https://www.offensive-security.com/pwk-oscp/">Offensive Security</a>. The cert that ‘gets you through the HR door’ the end-game… right ? WRONG!
+I’ve read so many blogs and posts about people taking and passing their OSCP exam to then reach for the skies and scream ‘I’VE FINALLY MADE IT’ But have they actually? And is it the right cert to get ? Lets find out…</p>
+
+<hr />
+
+<p>Firstly lets clear the air, I’m from the UK, and the OSCP is recognised pretty much world wide but does that mean that as a newcomer to industry looking for a job its the first thing to go for ? While the OSCP to some is not considered as a ‘Beginner’ level cert it does seem to be the minimum or at least in the list of ‘Required Skills’ for Pentest jobs… Here lets look at a few:</p>
+
+<h3 id="junior-penetration-tester-roles"><a href="#header-3"></a>Junior Penetration Tester Roles</h3>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Job #1 ~ Penetration Testing Certifications such as: CREST, TIGER Scheme, or OSCP
+Job #2 ~ Current CREST / CHECK Registered Tester (AND/OR) OSCP or GIAC GPEN Accreditation.
+Job #3 ~ Qualifications are CREST Registered Tester, Tiger Scheme or OSCP certification.
+</code></pre></div></div>
+
+<p>Now theres a few examples pasted straight out of jobs available as of the date of this post. And i didn’t look hard, a quick Google search will bring you up a nice selection
+of jobs currently available. Najority of the jobs require some sort of experience, OSCP - Which we are embracing as our ‘foot in the door’ cert….and this other thing, CREST/CHECK??????? Say what ? All everyone talks about is OSCP so what even is this CREST, Well if your living in the UK it looks like your going to need it so lets take a look at this then…</p>
+
+<hr />
+
+<h3 id="crest"><a href="#header-3"></a>CREST</h3>
+<p>“<a href="https://www.crest-approved.org/">CREST</a> is an international not-for-profit accreditation and certification body that represents and supports the technical information security market”<br />
+So after browsing this site one thing is instantly clear - You’re going to want to be CREST certified to work in the UK Cybers industry. Its one of the most recognised 
+certs out there and regardless of specific role in the field its applicable to all. So why do they want it ?? Well its an industry standard, It means that when a compmany employs you (or your org) on a pentest you using the latest methodology and techniques</p>
+
+:ET

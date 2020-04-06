@@ -1,0 +1,48 @@
+I"�<h1 id="nano-resources"><a href="#header-1"></a>&gt;nano Resources</h1>
+
+<p>A list of resources i have gathered throughout my journey listed here for easy reference. I have tried to give credit where i can however if anything is missing
+or is wrong please let me know, Alot of these have come from my notes pasted into Cherry Tree and ive long since lost the original page..</p>
+
+<p>(In no particular order yet!)</p>
+
+<hr />
+<h3 id="oscp-study-guidesblogs"><a href="#header-3"></a>&gt;OSCP Study Guides/Blogs</h3>
+
+<p>Other peoples experinces and study guides / best practices that aided them through the OSCP. Full of great advice and guidance to give you a steer in the right direction.</p>
+
+<p><a href="https://www.netsecfocus.com/oscp/2019/03/29/The_Journey_to_Try_Harder-_TJNulls_Preparation_Guide_for_PWK_OSCP.html">TJNull OSCP Study Guide</a> Probably the best resource &amp; advice i have come across so far in my journey,<strong>if you take anything away from this blog of mine it should be the link to this.</strong><br />
+<a href="https://thomfre.dev/my-oscp-experience">thomfree.dev</a><br />
+<a href="https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-1-is-oscp-for-you-b57cbcce7440">HakLukes Ultimate OSCP Guide Pt 1</a> 1/3 - Intro &amp; Questions <br />
+<a href="https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-2-workflow-and-documentation-tips-9dd335204a48">HakLukes Ultimate OSCP Guide Pt 2</a> 2/3 - Workflow &amp; Docs<br />
+<a href="https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97">HakLukes Ultimate OSCP Guide Pt 3</a> 3/3 Practical tips &amp; tricks<br />
+<a href="https://0xdarkvortex.dev/index.php/2018/04/17/31-days-of-oscp-experience/">oxDarkVortex</a> 31 Days of OSCP Experience</p>
+
+<p>Its worth noting that the majority of the links posted here will be for the previous iteration of the OSCP (before the 2020 update) and as such some things will have changed and may be outdated however the great advice and tips are immortal.</p>
+
+<hr />
+<h3 id="cheatsheets"><a href="#header-3"></a>&gt;Cheatsheets</h3>
+<p><a href="https://github.com/Pgaijin66/XSS-Payloads/blob/master/payload.txt">XSS Payloads</a> (Top 20 are the standard ‘go-to’ to try first)<br />
+<a href="http://pentestmonkey.net/tools/web-shells/php-reverse-shell">PHP Reverse Web Shell</a> (A good collection of resources too!)<br />
+<a href="https://highon.coffee/blog/reverse-shell-cheat-sheet/#kali-php-web-shells">HighOn.Coffee</a> (An awesome site for shells, cheatsheets &amp; everything else)</p>
+
+<hr />
+
+<p>Upgrading shit shells:~</p>
+<blockquote>
+  <p>-c ‘import pty;pty.spawn(“/bin/bash”)’<br />
+            echo os.system(‘/bin/bash’)<br />
+            /bin/sh -i<br />
+            awk ‘BEGIN {system(“/bin/sh”)}’<br />
+            find / -name blahblah ‘exec /bin/awk ‘BEGIN {system(“/bin/sh”)}’ \;<br />
+            python: exit_code = os.system(‘/bin/sh’) output = os.popen(‘/bin/sh’).read()<br />
+            perl -e ‘exec “/bin/sh”;’<br />
+            perl: exec “/bin/sh”;<br />
+            ruby: exec “/bin/sh”<br />
+            lua: os.execute(‘/bin/sh’)<br />
+            irb(main:001:0&gt; exec “/bin/sh”</p>
+
+</blockquote>
+
+<hr />
+
+:ET

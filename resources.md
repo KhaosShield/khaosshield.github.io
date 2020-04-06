@@ -29,7 +29,7 @@ Its worth noting that the majority of the links posted here will be for the prev
 ### [](#header-3)>HackTheBox & VulnHub OSCP 
 If you read TJNull's OSCP study guide above (Which you should have) then you will see he has created a fantastic resource of OSCP like machines available on both HackTheBox & VulnHub. As im currently subscribed to HTB VIP in order to access the "Retired" machines ive extracted the following image to here for a quick reference. Ill flesh this out as we go on and post writeups in the relevant section as i make my way through each box.
 
-![](C:\Users\richa\Desktop\khaosshield.github.io\assets\2020-04-06 13_11_09-NetSecFocus Trophy Room - Google Sheets.png)
+![](https://github.com/KhaosShield/khaosshield.github.io/blob/master/assets/2020-04-06%2013_11_09-NetSecFocus%20Trophy%20Room%20-%20Google%20Sheets.png?raw=true)
 
 * * *
 ### [](#header-3)>Cheatsheets

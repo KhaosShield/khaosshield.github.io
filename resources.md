@@ -23,9 +23,13 @@ Other peoples experinces and study guides / best practices that aided them throu
 [HakLukes Ultimate OSCP Guide Pt 3](https://medium.com/@hakluke/haklukes-ultimate-oscp-guide-part-3-practical-hacking-tips-and-tricks-c38486f5fc97) 3/3 Practical tips & tricks  
 [oxDarkVortex](https://0xdarkvortex.dev/index.php/2018/04/17/31-days-of-oscp-experience/) 31 Days of OSCP Experience  
 
-Its worth noting that the majority of the links posted here will be for the previous iteration of the OSCP (before the 2020 update) and as such some things will have changed and may be outdated however the great advice and tips are immortal.  
+Its worth noting that the majority of the links posted here will be for the previous iteration of the OSCP (before the 2020 update) and as such some things will have changed and may be outdated however the great advice and tips are immortal.    
 
+* * *  
+### [](#header-3)>HackTheBox & VulnHub OSCP 
+If you read TJNull's OSCP study guide above (Which you should have) then you will see he has created a fantastic resource of OSCP like machines available on both HackTheBox & VulnHub. As im currently subscribed to HTB VIP in order to access the "Retired" machines ive extracted the following image to here for a quick reference. Ill flesh this out as we go on and post writeups in the relevant section as i make my way through each box.
 
+![](https://github.com/KhaosShield/khaosshield.github.io/blob/master/assets/2020-04-06%2013_11_09-NetSecFocus%20Trophy%20Room%20-%20Google%20Sheets.png)
 
 * * *
 ### [](#header-3)>Cheatsheets
